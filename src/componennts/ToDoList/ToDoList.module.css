@@ -1,0 +1,13 @@
+.edit_icon_div {
+  color: rgb(25, 113, 41);
+}
+
+.delete_icon_div {
+  color: rgb(205, 35, 35);
+}
+.edit_delete_div {
+  display: flex;
+  gap: 20px;
+
+  justify-content: flex-end;
+}
